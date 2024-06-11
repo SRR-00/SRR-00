@@ -7,11 +7,11 @@
 
 Hello! I am **Soumya Ranjan Rout**, a passionate software developer with a knack for creating robust and scalable applications. I specialize in full-stack development and have a deep interest in learning new technologies.
 
-- 🌱 I’m currently learning **React Native and Machine Learning**
+- 🌱 I’m currently learning ** Python , Ai & Machine Learning**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Node.js, React, Python**
 - 📫 How to reach me: [soumyaranjanrout491@gmail.com/routashish427@gmail.com]
-- ⚡ Fun fact: I love to  and read sci-fi novels.
+- ⚡ Fun fact: I love to read sci-fi novels.
 
 ## Technologies & Tools
 
@@ -23,22 +23,30 @@ Hello! I am **Soumya Ranjan Rout**, a passionate software developer with a knack
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
-## GitHub Stats
-
-![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumya-ranjan-rout&show_icons=true&hide_border=true&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-ranjan-rout&layout=compact&hide_border=true&theme=radical)
 
 ## Projects
 
-### [Project 1: Awesome Project](https://github.com/soumya-ranjan-rout/awesome-project)
-A brief description of the project, what technologies were used, and its purpose.
+### [ E-Library Genesis](https://github.com/soumya-ranjan-rout/awesome-project)
+ Full Stack web application, providing users with seamless access to 
+digital resources
+1. Designed intuitive interfaces, integrated authentication and 
+cataloging, resulting in streamlined operations and improved user 
+experience.
+2. Collabrated with team members to Implement a web application using 
+HTML, CSS, JS, PHP
 
-### [Project 2: Another Cool Project](https://github.com/soumya-ranjan-rout/another-cool-project)
-A brief description of the project, what technologies were used, and its purpose.
+### [Online Food Ordering System](https://github.com/soumya-ranjan-rout/another-cool-project)
+1. Created an online food ordering system using Python, Django, and 
+MySQL. Developed user-friendly interfaces for customers to browse 
+menus, place orders.
+ 2. Implemented backend logic for order processing, inventory 
+management, and delivery coordination.
+ 3. Utilized Django's ORM to interact with MySQL database for efficient 
+data storage and retrieval
 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/soumya-ranjan-rout/)
-- [Email](mailto:soumya@example.com)
+- [Email](Soumyaranjanrout491@gmail.com)
 
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you’d like to collaborate.
