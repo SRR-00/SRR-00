@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:312e81&height=200&section=header&text=Soumya%20Ranjan%20Rout&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=20&descColor=c7d2fe" width="100%"/>
+<img src="./assets/banner.png" width="100%" alt="Soumya Ranjan Rout — Cloud & DevOps Engineer"/>
 
 <a href="https://www.linkedin.com/in/soumya-r-rout/">
   <img src="https://img.shields.io/badge/LinkedIn-Soumya%20Ranjan%20Rout-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -111,7 +111,6 @@ A production-style 3-tier architecture on AWS, built collaboratively for high av
 
 <br/>
 
-
 ## 🤝 Connect with me
 
 <div align="center">
@@ -122,6 +121,6 @@ A production-style 3-tier architecture on AWS, built collaboratively for high av
 
 <i>Thanks for stopping by — always open to connecting on Cloud/DevOps roles and projects.</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="./assets/footer.png" width="100%" alt=""/>
 
 </div>
